@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Logout Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3b3e480-f99c-46a9-8bbe-5616c359136d</testCaseGuid>
+   <variable>
+      <defaultValue>'user'</defaultValue>
+      <description></description>
+      <id>fdeeb960-31e7-4f23-b258-7cee0df500a6</id>
+      <masked>false</masked>
+      <name>user</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>b0ab7fc2-dfd6-4c13-8eef-8b5593967131</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>66ebf80d-b1b5-409a-8120-bb274696b86e</id>
+      <masked>false</masked>
+      <name>is_valid</name>
+   </variable>
+</TestCaseEntity>
