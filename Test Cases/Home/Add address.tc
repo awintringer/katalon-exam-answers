@@ -5,4 +5,53 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>46ae6bc8-5906-4545-aa71-8cf9d2aac1bd</testCaseGuid>
+   <variable>
+      <defaultValue>'default type'</defaultValue>
+      <description></description>
+      <id>b96d687f-5dd9-4721-b62e-e362ce213dc0</id>
+      <masked>false</masked>
+      <name>adress_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'0 default street'</defaultValue>
+      <description></description>
+      <id>6a14c007-fb91-4107-8712-7bdd268833a9</id>
+      <masked>false</masked>
+      <name>house_nb</name>
+   </variable>
+   <variable>
+      <defaultValue>'default city'</defaultValue>
+      <description></description>
+      <id>f7f195e5-9757-451a-9bce-34e4743a73e8</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'00000'</defaultValue>
+      <description></description>
+      <id>784ed4bd-9c6b-4b01-a5c7-4ef059aaa52f</id>
+      <masked>false</masked>
+      <name>zipcode</name>
+   </variable>
+   <variable>
+      <defaultValue>'0000'</defaultValue>
+      <description></description>
+      <id>354da793-434f-43bf-8e7b-2d51f27ce5a2</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'default alias'</defaultValue>
+      <description></description>
+      <id>c1cd3a02-2a3c-49bf-9944-d6aa4c849de0</id>
+      <masked>false</masked>
+      <name>alias</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>bfbe65d2-7eb7-42d7-ba4b-c23efc8b7d87</id>
+      <masked>false</masked>
+      <name>state</name>
+   </variable>
 </TestCaseEntity>
