@@ -25,7 +25,7 @@ WebUI.callTestCase(findTestCase('Common/GoToUrl'), [('url') : GlobalVariable.hom
 deleteButton = WebUI.callTestCase(findTestCase('Common/FindAddress'), [('alias') : alias])
 
 if (deleteButton) {
-
+	
 }
 
 else {

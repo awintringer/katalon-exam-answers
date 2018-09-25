@@ -1,0 +1,9 @@
+C:
+
+cd C:\Program Files (x86)\Katalon Studio
+
+katalon -runMode=console -projectPath="C:\Users\ib\Katalon Studio\katalon-exam-answers\katalon-exam.prj" -reportFolder="Reports" -reportFileName="report" -retry=0 -testSuitePath="Test Suites\Add addresses" -browserType="Chrome"
+
+katalon -runMode=console -projectPath="C:\Users\ib\Katalon Studio\katalon-exam-answers\katalon-exam.prj" -reportFolder="Reports" -reportFileName="report" -retry=0 -testSuitePath="Test Suites\Delete addresses" -browserType="Chrome"
+
+katalon -runMode=console -projectPath="C:\Users\ib\Katalon Studio\katalon-exam-answers\katalon-exam.prj" -reportFolder="Reports" -reportFileName="report" -retry=0 -testSuitePath="Test Suites\Test login" -browserType="Chrome"
